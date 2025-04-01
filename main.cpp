@@ -220,4 +220,9 @@
 //     cout << (isPrime(n) ? "true" : "false") << endl;
 //     return 0;
 // }
-
+// int main() {
+//     int n;
+//     cin >> n;
+//     cout << (isPrime(n) ? "true" : "false") << endl;
+//     return 0;
+// }
