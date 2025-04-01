@@ -200,29 +200,3 @@
 //     cout << (isPrime(n) ? "true" : "false") << endl;
 //     return 0;
 // }
-// this is for test
-// #include <iostream>
-// using namespace std;
-//
-// bool isPrime(int n, int i = 2) {
-//     if (n <= 1)
-//         return false;
-//     if (i > sqrt(n))
-//         return true;
-//     if (n % i == 0)
-//         return false;
-//     return isPrime(n, i + 1);
-// }
-//
-// int main() {
-//     int n;
-//     cin >> n;
-//     cout << (isPrime(n) ? "true" : "false") << endl;
-//     return 0;
-// }
-// int main() {
-//     int n;
-//     cin >> n;
-//     cout << (isPrime(n) ? "true" : "false") << endl;
-//     return 0;
-// }
